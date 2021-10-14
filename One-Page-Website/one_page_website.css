@@ -4,9 +4,9 @@ p {
 }
 
 .reservation {
-    width: 100%;
+    width: 50%;
     margin: 8px 0;
     border: 2px solid black;
-    border-radius: 4px; 
+    border-radius: 2px; 
     
 }
